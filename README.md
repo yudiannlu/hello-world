@@ -1,2 +1,3 @@
 # hello-world
-follow tutorial 
+follow tutorial from GitHub
+1. step create a new repository, named "hello-world"
